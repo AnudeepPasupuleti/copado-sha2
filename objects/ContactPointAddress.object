@@ -198,6 +198,13 @@
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
+    <fields>
+        <fullName>serialno__c</fullName>
+        <externalId>false</externalId>
+        <label>serialno</label>
+        <trackHistory>false</trackHistory>
+        <type>AutoNumber</type>
+    </fields>
     <listViews>
         <fullName>All_ContactPointAddresses</fullName>
         <filterScope>Everything</filterScope>
