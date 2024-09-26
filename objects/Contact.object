@@ -443,6 +443,13 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Pivate_Contact__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Pivate_Contact</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Pronouns</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
