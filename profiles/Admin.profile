@@ -12617,6 +12617,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>CommSubscriptionTiming.subtime__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Contact.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -26006,10 +26011,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>Packaging2Delete</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>Packaging2PromoteVersion</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
