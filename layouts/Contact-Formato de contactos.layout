@@ -25,6 +25,10 @@
                 <behavior>Edit</behavior>
                 <field>Title</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Pivate_Contact__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
