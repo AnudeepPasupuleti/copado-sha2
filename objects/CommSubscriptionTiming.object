@@ -160,6 +160,13 @@
         <inlineHelpText>The unit of time that works with Offset to determine the communication timing.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>subtime__c</fullName>
+        <label>subtime</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>TextArea</type>
+    </fields>
     <listViews>
         <fullName>All_CommSubscriptionTimings</fullName>
         <filterScope>Everything</filterScope>
