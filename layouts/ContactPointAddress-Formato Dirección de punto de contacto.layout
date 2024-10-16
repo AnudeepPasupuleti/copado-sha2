@@ -22,6 +22,10 @@
                 <behavior>Edit</behavior>
                 <field>PreferenceRank</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>serialno__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
