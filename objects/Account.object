@@ -399,6 +399,13 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Accountest</fullName>
+        <active>true</active>
+        <errorConditionFormula>Name  =  &quot;account&quot;</errorConditionFormula>
+        <errorDisplayField>Name</errorDisplayField>
+        <errorMessage>Account cannot be the name of account</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>AltavistaNews</fullName>
         <availability>online</availability>
